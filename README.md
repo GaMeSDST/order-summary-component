@@ -10,8 +10,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/ordersummarycomponent-with-simple-html-and-css-jAGjPDfU6d)
+- [Live Site URL](https://gamesdst.github.io/order-summary-component/)
 
 ### Built with
 
